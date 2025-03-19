@@ -9,10 +9,9 @@ Este projeto foi desenvolvido como um desafio para criar um sorteador de amigo s
 ## 🚀 Funcionalidades
 
 ✔ Adicionar participantes ao sorteio  
-✔ Sortear pares aleatórios automaticamente  
+✔ Sortear nomes aleatórios automaticamente  
 ✔ Interface intuitiva e responsiva  
-✔ Feedback visual para os usuários  
-
+ 
 ## 🎮 Como Executar o Projeto
 
 1. Clone este repositório no seu computador:
