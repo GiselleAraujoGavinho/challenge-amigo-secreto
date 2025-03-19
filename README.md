@@ -14,6 +14,6 @@ Este projeto foi desenvolvido como um desafio para criar um sorteador de amigo s
  
 ## 🎮 Como Executar o Projeto
 
-1. Clone este repositório no seu computador:
+Clone este repositório no seu computador:
    
    git clone https://github.com/GiselleAraujoGavinho/challenge-amigo-secreto.git
